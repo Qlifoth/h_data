@@ -25,3 +25,4 @@ admin:0E91airocon
 root:stemroot
 admin:/ADMIN/
 mg3500:merlin
+myscada:Vikuk63
