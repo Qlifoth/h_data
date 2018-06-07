@@ -25,3 +25,8 @@ admin:0E91airocon
 root:stemroot
 admin:/ADMIN/
 mg3500:merlin
+ftp:ftp
+hgw:hgw
+asc:asc
+admin:022844444
+Starnet:022844444
